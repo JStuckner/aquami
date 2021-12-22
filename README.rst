@@ -30,3 +30,7 @@ New in version 1.1.0
 
 * Fix for Mac operating systems.
 * Updates for depreciated functions in numpy and matplotlib.
+
+Requirements
+~~~~~~~~~~~~~~~~~~~~
+Some functions have been deprecated since I wrote this code several years ago. I've added a requirements.txt file that specifies versions of the dependencies I used when writing the code. 
