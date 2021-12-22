@@ -33,4 +33,4 @@ New in version 1.1.0
 
 Requirements
 ~~~~~~~~~~~~~~~~~~~~
-Some functions have been deprecated since I wrote this code several years ago. I've added a requirements.txt file that specifies versions of the dependencies I used when writing the code. 
+Some functions have been deprecated since I wrote this code several years ago. I've added a requirements.txt file that specifies versions of the dependencies I used when writing the code. (Github is warning me that Pillow 4.0.0 has some vulnerabilities, so you can try the latest package for Pillow.)
