@@ -7,7 +7,7 @@ For more information, see `this paper <https://doi.org/10.1016/j.commatsci.2017.
 Installing
 ~~~~~~~~~~
 
-A standalone Windows version that does not require Python can be found `here <https://goo.gl/A8Y9Mq>`_.
+A standalone Windows version that does not require Python can be found `here <https://drive.google.com/file/d/1uleA3s6Q6VtYL0VUIWQ7r3EcfixY-sDE>`_.
 
 The easiest way to install the Python version is with pip.  In the command prompt type:
 
